@@ -1,0 +1,59 @@
+.page-content-wrapper article div.content {
+ text-align: left;
+}
+
+.page-content-wrapper article span.heading {
+ display: block;
+ font-size: 25px;
+ font-weight: bold;
+}
+
+.page-content-wrapper article span.subheading {
+ display: block;
+ font-size: 20px;
+ font-weight: bold;
+}
+
+.page-content-wrapper article div.content p {
+ font-size: 20px;    
+}
+
+.page-content-wrapper {
+ padding: 70px 5%;
+}
+
+.page-content-wrapper section.main {
+ width: 100%;
+ float: left;
+}
+
+.page-content-wrapper article {
+ background-color: #eeeeee;
+ padding: 20px;
+}
+
+.page-content-wrapper article header {
+ text-align: left;
+}
+
+.page-content-wrapper article footer {
+ text-align: left;
+ font-size: 15px;
+}
+
+.page-content-wrapper .links a {
+ color: blue;
+}
+
+.page-content-wrapper .links a:hover {
+ color: purple;
+}
+
+aside {
+ width: 35%;
+ float: right;
+}
+
+img {
+ border: 5px solid #e57373;
+}
